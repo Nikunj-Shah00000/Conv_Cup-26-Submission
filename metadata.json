@@ -1,0 +1,7 @@
+{
+  "name": "NEXUS-9: NVIDIA AI Soccer Intelligence",
+  "description": "Next-generation tactical advisor, sports analyst, and virtual trainer powered by NVIDIA ACE, Cosmos Vision AI, and Isaac Sim physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
